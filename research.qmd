@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### Paper Title (Year)
+**with Coauthor A, Coauthor B**  
+*Status:* Working Paper / Under Review / Revise & Resubmit  
+[PDF](#) · [Slides](#) · [Code/Data](#)
+
+<details>
+<summary>Abstract</summary>
+
+Write a 6–10 line abstract here. Aim for: (i) question, (ii) method/model, (iii) main results, (iv) implications.
+</details>
+
+---
+
+## Publications
+
+### Published Paper Title (Journal, Year)
+**with Coauthor A**  
+[Journal link](#) · [PDF](#)
+
+<details>
+<summary>Abstract</summary>
+
+Abstract here.
+</details>
+
+---
+
+## Work in Progress (optional)
+- Short bullets. Keep it minimal.

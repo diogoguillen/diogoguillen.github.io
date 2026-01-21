@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+Upload your CV PDF to `assets/cv/DiogoGuillen_CV.pdf` and then update the link below.
+
+- **Download CV (PDF):** [DiogoGuillen_CV.pdf](assets/cv/DiogoGuillen_CV.pdf)
+
+::: {.callout-note}
+If you want the CV embedded on the page (instead of just a link), tell me and I’ll set it up.
+:::

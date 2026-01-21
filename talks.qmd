@@ -1,0 +1,12 @@
+---
+title: "Talks"
+---
+
+## Academic Seminars
+- Talk title — Venue (City), Month Year. [Slides](#) · [Paper](#)
+
+## Policy Talks
+- Talk title — Institution, Month Year. [Slides](#)
+
+## Upcoming (optional)
+- If you keep this updated, add a small "Upcoming" section.

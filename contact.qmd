@@ -1,9 +1,0 @@
----
-title: "Contact"
----
-
-- Email: [your.email@domain.com](mailto:your.email@domain.com)  
-- Stanford affiliation page (optional): [Link](#)  
-- Google Scholar: [Link](#)  
-- SSRN: [Link](#)  
-- GitHub: [Link](#)

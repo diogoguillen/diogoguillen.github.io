@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "with Coauthor A, Coauthor B\nStatus: Working Paper / Under Review / Revise & Resubmit\nPDF · Slides · Code/Data\n\n\nAbstract\n\nWrite a 6–10 line abstract here. Aim for: (i) question, (ii) method/model, (iii) main results, (iv) implications."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "with Coauthor A, Coauthor B\nStatus: Working Paper / Under Review / Revise & Resubmit\nPDF · Slides · Code/Data\n\n\nAbstract\n\nWrite a 6–10 line abstract here. Aim for: (i) question, (ii) method/model, (iii) main results, (iv) implications."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nPublished Paper Title (Journal, Year)\nwith Coauthor A\nJournal link · PDF\n\n\nAbstract\n\nAbstract here."
+  },
+  {
+    "objectID": "research.html#work-in-progress-optional",
+    "href": "research.html#work-in-progress-optional",
+    "title": "Research",
+    "section": "Work in Progress (optional)",
+    "text": "Work in Progress (optional)\n\nShort bullets. Keep it minimal."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@domain.com\n\nStanford affiliation page (optional): Link\n\nGoogle Scholar: Link\n\nSSRN: Link\n\nGitHub: Link"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk title — Venue (City), Month Year. Slides · Paper"
+  },
+  {
+    "objectID": "talks.html#academic-seminars",
+    "href": "talks.html#academic-seminars",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk title — Venue (City), Month Year. Slides · Paper"
+  },
+  {
+    "objectID": "talks.html#policy-talks",
+    "href": "talks.html#policy-talks",
+    "title": "Talks",
+    "section": "Policy Talks",
+    "text": "Policy Talks\n\nTalk title — Institution, Month Year. Slides"
+  },
+  {
+    "objectID": "talks.html#upcoming-optional",
+    "href": "talks.html#upcoming-optional",
+    "title": "Talks",
+    "section": "Upcoming (optional)",
+    "text": "Upcoming (optional)\n\nIf you keep this updated, add a small “Upcoming” section."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Economist · Former Deputy Governor, Banco Central do Brasil · Visiting Scholar, Stanford University\n\nMy research focuses on monetary policy, expectations, and macro-financial linkages, with an emphasis on how policy design and communication affect economic outcomes. My work combines theory, empirical analysis, and policy applications, often drawing on Brazilian and international data.\nBefore joining Stanford, I served as Deputy Governor at the Central Bank of Brazil, where I was responsible for monetary policy and economic research.\nResearch interests - Monetary policy and inflation targeting\n- Expectations, beliefs, and information frictions\n- Macro-finance and financial intermediation\n- Policy design and credibility\n\nCV (PDF) Google Scholar SSRN Email"
+  },
+  {
+    "objectID": "index.html#news-optional",
+    "href": "index.html#news-optional",
+    "title": "Home",
+    "section": "News (optional)",
+    "text": "News (optional)\n\nVisiting Scholar, Stanford University (YYYY–YYYY).\nAdd 1–2 lines that you update occasionally."
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Policy & Public Engagement",
+    "section": "",
+    "text": "Item (Year). One-line description. Link"
+  },
+  {
+    "objectID": "policy.html#selected-policy-work",
+    "href": "policy.html#selected-policy-work",
+    "title": "Policy & Public Engagement",
+    "section": "",
+    "text": "Item (Year). One-line description. Link"
+  },
+  {
+    "objectID": "policy.html#speeches-op-eds-interviews",
+    "href": "policy.html#speeches-op-eds-interviews",
+    "title": "Policy & Public Engagement",
+    "section": "Speeches / Op-Eds / Interviews",
+    "text": "Speeches / Op-Eds / Interviews\n\nItem (Year). Outlet. Link"
+  },
+  {
+    "objectID": "policy.html#notes",
+    "href": "policy.html#notes",
+    "title": "Policy & Public Engagement",
+    "section": "Notes",
+    "text": "Notes\nKeep this page curated. 8–15 items is usually plenty."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Upload your CV PDF to assets/cv/DiogoGuillen_CV.pdf and then update the link below.\n\nDownload CV (PDF): DiogoGuillen_CV.pdf\n\n\n\n\n\n\n\nNote\n\n\n\nIf you want the CV embedded on the page (instead of just a link), tell me and I’ll set it up."
+  }
+]

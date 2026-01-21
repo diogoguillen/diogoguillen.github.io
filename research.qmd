@@ -2,34 +2,80 @@
 title: "Research"
 ---
 
+## Publications (Peer-Reviewed Journals)
+
+### An Empirical Analysis of Monetary Policy Committees Composition and Its Relationship with Monetary Policy (2024)
+**with Guilherme Spilimbergo Costa**  
+*Latin American Journal of Central Banking*
+
+<details>
+<summary>Abstract</summary>
+This paper studies how the composition of monetary policy committees affects policy decisions. Using cross-country and institutional variation, we document systematic relationships between committee characteristics and monetary policy outcomes, highlighting the role of institutional design.
+</details>
+
+---
+
+### International Macroeconomic Vulnerability (2024)
+**with Márcio Garcia, Bernardo Ribeiro, and João Velloso**  
+*Journal of International Money and Finance*
+
+<details>
+<summary>Abstract</summary>
+We analyze sources of macroeconomic vulnerability across countries, emphasizing external exposure and domestic policy frameworks. The results highlight how structural features amplify or mitigate international shocks.
+</details>
+
+---
+
+### Deep Learning Models for Inflation Forecasting (2023)
+**with Alexandre Fernandes Theoharidis and Hedibert Lopes**  
+*Applied Stochastic Models in Business and Industry*
+
+<details>
+<summary>Abstract</summary>
+This paper evaluates the performance of deep learning models for inflation forecasting. We compare machine learning approaches to standard benchmarks and assess their gains in predictive accuracy.
+</details>
+
+---
+
+### Working under Pressure: Evidence from the Impacts of Soccer Fans on Players’ Performance (2012)
+**with Breno Braga**  
+*Economics Letters*
+
+<details>
+<summary>Abstract</summary>
+Using match-level data, this paper studies how social pressure affects individual performance. We show that crowd intensity has a measurable impact on players’ outcomes.
+</details>
+
+---
+
 ## Working Papers
 
-### Paper Title (Year)
-**with Coauthor A, Coauthor B**  
-*Status:* Working Paper / Under Review / Revise & Resubmit  
-[PDF](#) · [Slides](#) · [Code/Data](#)
+### The Not So Quiet Revolution: Signal and Noise in Central Bank Communication (2025)
+**with Leonardo Nogueira Ferreira, Caio Garzeri, Antônio Lima, and Victor Monteiro**  
+*Central Bank of Brazil — Working Paper Series No. 635*
 
 <details>
 <summary>Abstract</summary>
-
-Write a 6–10 line abstract here. Aim for: (i) question, (ii) method/model, (iii) main results, (iv) implications.
+We study central bank communication under heightened uncertainty and decompose official statements into informative signal and uninformative noise. The analysis highlights implications for expectation formation and the predictability of policy decisions.
 </details>
 
 ---
 
-## Publications
-
-### Published Paper Title (Journal, Year)
-**with Coauthor A**  
-[Journal link](#) · [PDF](#)
+### An Organizational Structure Approach to Price Setting and Monetary Policy (2025)
+**with Victor Monteiro**  
+*Central Bank of Brazil — Working Paper Series No. 638*
 
 <details>
 <summary>Abstract</summary>
-
-Abstract here.
+We develop a New Keynesian framework in which price rigidity arises endogenously from organizational structure and incentive misalignment within firms. The model generates novel implications for inflation dynamics and monetary policy transmission.
 </details>
 
 ---
 
-## Work in Progress (optional)
-- Short bullets. Keep it minimal.
+### Following the Informational Footsteps of the Supply Chain Tracks (2025)
+**with Victor Monteiro and Thiago Christiano Silva**  
+*Central Bank of Brazil — Working Paper Series No. 640*
+
+<details>
+<summary>Abstract</summary>
+We study information propagation in production networks using a model with incomplete information at the firm level. The framework links network structure, information f

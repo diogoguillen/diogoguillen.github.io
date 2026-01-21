@@ -10,30 +10,25 @@ page-layout: full
 # Diogo Guillen
 
 <div class="kicker">
+
 Economist · Former Deputy Governor, Banco Central do Brasil · Visiting Scholar, Stanford University
 </div>
 
 My research focuses on monetary policy, expectations, and macro-financial linkages, with an emphasis on how policy design and communication affect economic outcomes. My work combines theory, empirical analysis, and policy applications, often drawing on Brazilian and international data.
 
-Before joining Stanford, I served as Deputy Governor at the Central Bank of Brazil, where I was responsible for monetary policy and economic research.
+I am currently a Visiting Scholar at Stanford University. Previously, I served as Deputy Governor for Economic Policy at the Central Bank of Brazil, where I oversaw economic research, macroeconomic analysis, and official statistics, and contributed to monetary policy formulation and communication.
+
 
 **Research interests**
 - Monetary policy and inflation targeting  
 - Expectations, beliefs, and information frictions  
 - Macro-finance and financial intermediation  
-- Policy design and credibility  
+- Policy design  
 
 <div class="quicklinks">
-<a href="cv.qmd">CV (PDF)</a>
-<a href="https://scholar.google.com/">Google Scholar</a>
-<a href="https://ssrn.com/">SSRN</a>
-<a href="mailto:your.email@domain.com">Email</a>
+  <a href="assets/cv/DiogoGuillen_CV.pdf" target="_blank" rel="noopener noreferrer">CV (PDF)</a>
+  <a href="mailto:dguillen@gmail.com">Email</a>
 </div>
 :::
 :::
 
----
-
-## News (optional)
-- Visiting Scholar, Stanford University (YYYY–YYYY).
-- Add 1–2 lines that you update occasionally.

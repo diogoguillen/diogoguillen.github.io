@@ -1,17 +1,17 @@
 ---
 title: "Research"
---- 
+---
 
 ## Publications (Peer-Reviewed Journals)
 
 ### An Empirical Analysis of Monetary Policy Committees Composition and Its Relationship with Monetary Policy (2024)
 **with Guilherme Spilimbergo Costa**  
 *Latin American Journal of Central Banking*  
-[Journal](https://www.sciencedirect.com/journal/latin-american-journal-of-central-banking)
+[Article](https://www.sciencedirect.com/science/article/pii/S2666143824000164) · [DOI](https://doi.org/10.1016/j.latcb.2024.100134)
 
 <details>
 <summary>Abstract</summary>
-This paper studies how the composition of monetary policy committees affects policy decisions. Using cross-country and institutional variation, we document systematic relationships between committee characteristics and monetary policy outcomes, highlighting the role of institutional design.
+This paper studies how the composition of monetary policy committees affects monetary policy decisions. Using institutional variation across committees, we document systematic relationships between member characteristics and policy outcomes, highlighting the role of committee design for decision-making and credibility.
 </details>
 
 ---
@@ -19,11 +19,11 @@ This paper studies how the composition of monetary policy committees affects pol
 ### International Macroeconomic Vulnerability (2024)
 **with Márcio Garcia, Bernardo Ribeiro, and João Velloso**  
 *Journal of International Money and Finance*  
-[Journal](https://www.sciencedirect.com/journal/journal-of-international-money-and-finance)
+[Article](https://www.sciencedirect.com/science/article/abs/pii/S0261560624000925) · [DOI](https://doi.org/10.1016/j.jimonfin.2024.103105)
 
 <details>
 <summary>Abstract</summary>
-We analyze sources of macroeconomic vulnerability across countries, emphasizing external exposure and domestic policy frameworks. The results highlight how structural features amplify or mitigate international shocks.
+We study cross-country sources of macroeconomic vulnerability, emphasizing the interaction between external exposure, domestic policy frameworks, and financial conditions. The analysis shows how structural features shape the transmission of global shocks and the resilience of emerging economies.
 </details>
 
 ---
@@ -31,11 +31,11 @@ We analyze sources of macroeconomic vulnerability across countries, emphasizing 
 ### Deep Learning Models for Inflation Forecasting (2023)
 **with Alexandre Fernandes Theoharidis and Hedibert Lopes**  
 *Applied Stochastic Models in Business and Industry*  
-[Journal](https://onlinelibrary.wiley.com/journal/15264025)
+[Article](https://onlinelibrary.wiley.com/doi/10.1002/asmb.2757) · [DOI](https://doi.org/10.1002/asmb.2757) · [PDF](https://hedibert.org/wp-content/uploads/2023/03/theoharidis-guillen-lopes-2023.pdf)
 
 <details>
 <summary>Abstract</summary>
-This paper evaluates the performance of deep learning models for inflation forecasting. We compare machine learning approaches to standard benchmarks and assess their gains in predictive accuracy.
+This paper evaluates the performance of deep learning models for inflation forecasting. We compare machine learning approaches to standard econometric benchmarks and show that nonlinear methods can deliver gains in predictive accuracy, particularly during periods of structural change.
 </details>
 
 ---
@@ -43,11 +43,11 @@ This paper evaluates the performance of deep learning models for inflation forec
 ### Working under Pressure: Evidence from the Impacts of Soccer Fans on Players’ Performance (2012)
 **with Breno Braga**  
 *Economics Letters*  
-[Journal](https://www.sciencedirect.com/journal/economics-letters)
+[Article](https://www.sciencedirect.com/science/article/abs/pii/S0165176511003971) · [DOI](https://doi.org/10.1016/j.econlet.2011.10.017)
 
 <details>
 <summary>Abstract</summary>
-Using match-level data, this paper studies how social pressure affects individual performance. We show that crowd intensity has a measurable impact on players’ outcomes.
+Using match-level data, this paper studies how social pressure affects individual performance. We show that higher crowd intensity has a statistically significant impact on players’ outcomes, providing evidence on behavioral responses under pressure.
 </details>
 
 ---
@@ -61,7 +61,7 @@ Using match-level data, this paper studies how social pressure affects individua
 
 <details>
 <summary>Abstract</summary>
-We study central bank communication under heightened uncertainty and decompose official statements into informative signal and uninformative noise. The analysis highlights implications for expectation formation and the predictability of policy decisions.
+This paper studies central bank communication under heightened uncertainty. We decompose official communication into informative signal and uninformative noise and analyze their respective effects on expectations and market outcomes, highlighting trade-offs in transparency and clarity.
 </details>
 
 ---
@@ -73,7 +73,7 @@ We study central bank communication under heightened uncertainty and decompose o
 
 <details>
 <summary>Abstract</summary>
-We develop a New Keynesian framework in which price rigidity arises endogenously from organizational structure and incentive misalignment within firms. The model generates novel implications for inflation dynamics and monetary policy transmission.
+We develop a New Keynesian framework in which price rigidity emerges endogenously from organizational structure and incentive misalignment within firms. The model generates novel implications for inflation dynamics and the transmission of monetary policy.
 </details>
 
 ---
@@ -85,7 +85,7 @@ We develop a New Keynesian framework in which price rigidity arises endogenously
 
 <details>
 <summary>Abstract</summary>
-We study information propagation in production networks using a model with incomplete information at the firm level. The framework links network structure, information frictions, and aggregate shock transmission, with supporting evidence from Brazilian firm-to-firm data.
+This paper studies information propagation in production networks using a model with incomplete information at the firm level. We link information frictions, network structure, and aggregate shock transmission, and provide supporting evidence using Brazilian firm-to-firm transaction data.
 </details>
 
 ---
@@ -97,7 +97,7 @@ We study information propagation in production networks using a model with incom
 
 <details>
 <summary>Abstract</summary>
-Using regression discontinuity designs, we estimate the causal effects of local government spending on employment outcomes in Brazil.
+Using regression discontinuity designs, we estimate the causal effects of local government spending on employment outcomes in Brazil, providing evidence on the labor-market impact of fiscal policy at the local level.
 </details>
 
 ---
@@ -109,7 +109,7 @@ Using regression discontinuity designs, we estimate the causal effects of local 
 
 <details>
 <summary>Abstract</summary>
-This paper studies optimal monetary policy in environments with liquidity frictions, highlighting trade-offs between macroeconomic stabilization and efficiency.
+This paper studies optimal monetary policy in environments with liquidity frictions. We characterize policy trade-offs between stabilization and efficiency when financial constraints affect the transmission of monetary interventions.
 </details>
 
 ---
@@ -119,32 +119,32 @@ This paper studies optimal monetary policy in environments with liquidity fricti
 ### The Monetary and Fiscal History of Brazil: 1960–2016
 **with João Ayres, Márcio Garcia, and Patrick Kehoe**  
 *Book Chapter, in Juan Pablo Nicolini and Timothy J. Kehoe (eds.),*  
-*Monetary and Fiscal History of Latin America*  
-[Publisher](https://www.cambridge.org/)
+*A Monetary and Fiscal History of Latin America, 1960–2017*  
+[Book](https://www.upress.umn.edu/9781517911362/a-monetary-and-fiscal-history-of-latin-america-19602017/) · [NBER WP version](https://www.nber.org/system/files/working_papers/w25421/w25421.pdf)
 
 <details>
 <summary>Abstract</summary>
-This chapter provides a comprehensive account of Brazil’s monetary and fiscal history from 1960 to 2016, emphasizing regime changes, institutional developments, and the interaction between fiscal and monetary policy.
+This chapter provides a comprehensive account of Brazil’s monetary and fiscal history from 1960 to 2016. We emphasize regime changes, institutional developments, and the interaction between fiscal dominance and monetary policy.
 </details>
 
 ---
 
 ### Monetary Policy Decision Making and Communication under Heightened Uncertainty in Brazil (2025)
-**with Leonardo Ferreira**  
-*Book Chapter, BIS Papers*  
-[BIS](https://www.bis.org/publ/bppdf.htm)
+**with Leonardo Nogueira Ferreira**  
+*Book Chapter, BIS Papers No. 163*  
+[Chapter PDF](https://www.bis.org/publ/bppdf/bispap163_d.pdf) · [Volume](https://www.bis.org/publ/bppdf/bispap163.htm)
 
 <details>
 <summary>Abstract</summary>
-We analyze how heightened uncertainty affects monetary policy decisions and communication strategies in Brazil, with a focus on expectation management and credibility.
+This chapter analyzes how heightened uncertainty affects monetary policy decisions and communication strategies in Brazil. We discuss implications for expectation management, credibility, and policy effectiveness.
 </details>
 
 ---
 
 ### Inflation and Labour Markets in the Wake of the Pandemic: The Case of Brazil (2023)
 **with Sergio Leão**  
-*Book Chapter, BIS Papers*  
-[BIS](https://www.bis.org/publ/bppdf.htm)
+*Book Chapter, BIS Papers No. 142*  
+[Chapter PDF](https://www.bis.org/publ/bppdf/bispap142_c.pdf) · [Volume](https://www.bis.org/publ/bppdf/bispap142.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -158,11 +158,11 @@ This chapter studies inflation dynamics and labor market adjustments in Brazil f
 ### Expectativas Desagregadas, Credibilidade do Banco Central e Cadeias de Markov (2014)
 **with Márcio Garcia**  
 *Revista Brasileira de Economia*  
-[PDF](https://www.scielo.br/j/rbe/)
+[PDF](https://www.scielo.br/j/rbe/a/5KKzC7vQPSRyqFntfv87fcT/?format=pdf&lang=pt)
 
 <details>
 <summary>Abstract</summary>
-This paper analyzes disaggregated inflation expectations in Brazil using Markov chain techniques, emphasizing the role of central bank credibility.
+This paper analyzes disaggregated inflation expectations in Brazil using Markov chain techniques, highlighting the role of central bank credibility in shaping expectation dynamics.
 </details>
 
 ---
@@ -170,11 +170,11 @@ This paper analyzes disaggregated inflation expectations in Brazil using Markov 
 ### Dispersão na Fixação de Preços no Brasil (2011)
 **with Márcio Garcia**  
 *Revista Brasileira de Economia*  
-[PDF](https://www.scielo.br/j/rbe/)
+[PDF](https://www.scielo.br/j/rbe/a/rmNTdSB7wJFw3JtZJkQ6ycv/?format=pdf&lang=pt)
 
 <details>
 <summary>Abstract</summary>
-We document price dispersion patterns in Brazil and discuss implications for inflation dynamics and monetary policy transmission.
+We document patterns of price dispersion in Brazil and discuss their implications for inflation dynamics and monetary policy transmission.
 </details>
 
 ---
@@ -182,9 +182,9 @@ We document price dispersion patterns in Brazil and discuss implications for inf
 ### Futuro da Política Monetária no Brasil (2020)
 *Book Chapter, in Fábio Giambiagi (ed.),*  
 *O Futuro do Brasil*  
-[Publisher](https://www.livrariacultura.com.br/)
+[Institutional record](https://repositorio.insper.edu.br/entities/publication/650268f7-24b4-4702-91a6-f586441157d7)
 
 <details>
 <summary>Abstract</summary>
-This chapter discusses challenges and perspectives for monetary policy in Brazil, with emphasis on institutional design, credibility, and communication.
+This chapter discusses challenges and future directions for monetary policy in Brazil, with emphasis on institutional design, credibility, and communication.
 </details>

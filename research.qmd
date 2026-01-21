@@ -55,3 +55,136 @@ Using match-level data, this paper studies how social pressure affects individua
 ## Working Papers
 
 ### The Not So Quiet Revolution: Signal and Noise in Central Bank Communication (2025)
+**with Leonardo Nogueira Ferreira, Caio Garzeri, Antônio Lima, and Victor Monteiro**  
+*Central Bank of Brazil — Working Paper Series No. 635*  
+[PDF](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP635.pdf)
+
+<details>
+<summary>Abstract</summary>
+We study central bank communication under heightened uncertainty and decompose official statements into informative signal and uninformative noise. The analysis highlights implications for expectation formation and the predictability of policy decisions.
+</details>
+
+---
+
+### An Organizational Structure Approach to Price Setting and Monetary Policy (2025)
+**with Victor Monteiro**  
+*Central Bank of Brazil — Working Paper Series No. 638*  
+[PDF](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP638.pdf)
+
+<details>
+<summary>Abstract</summary>
+We develop a New Keynesian framework in which price rigidity arises endogenously from organizational structure and incentive misalignment within firms. The model generates novel implications for inflation dynamics and monetary policy transmission.
+</details>
+
+---
+
+### Following the Informational Footsteps of the Supply Chain Tracks (2025)
+**with Victor Monteiro and Thiago Christiano Silva**  
+*Central Bank of Brazil — Working Paper Series No. 640*  
+[PDF](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP640.pdf)
+
+<details>
+<summary>Abstract</summary>
+We study information propagation in production networks using a model with incomplete information at the firm level. The framework links network structure, information frictions, and aggregate shock transmission, with supporting evidence from Brazilian firm-to-firm data.
+</details>
+
+---
+
+### Local Government Spending and Employment: Regression Discontinuity Evidence from Brazil (2017)
+**with Breno Braga and Benjamin Thompson**  
+*Working Paper*  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2966187)
+
+<details>
+<summary>Abstract</summary>
+Using regression discontinuity designs, we estimate the causal effects of local government spending on employment outcomes in Brazil.
+</details>
+
+---
+
+### Optimal Policy with Liquidity Frictions (2014)
+**with Wei Cui**  
+*Working Paper*  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477334)
+
+<details>
+<summary>Abstract</summary>
+This paper studies optimal monetary policy in environments with liquidity frictions, highlighting trade-offs between macroeconomic stabilization and efficiency.
+</details>
+
+---
+
+## Book Chapters (English)
+
+### The Monetary and Fiscal History of Brazil: 1960–2016
+**with João Ayres, Márcio Garcia, and Patrick Kehoe**  
+*Book Chapter, in Juan Pablo Nicolini and Timothy J. Kehoe (eds.),*  
+*Monetary and Fiscal History of Latin America*  
+[Publisher](https://www.cambridge.org/)
+
+<details>
+<summary>Abstract</summary>
+This chapter provides a comprehensive account of Brazil’s monetary and fiscal history from 1960 to 2016, emphasizing regime changes, institutional developments, and the interaction between fiscal and monetary policy.
+</details>
+
+---
+
+### Monetary Policy Decision Making and Communication under Heightened Uncertainty in Brazil (2025)
+**with Leonardo Ferreira**  
+*Book Chapter, BIS Papers*  
+[BIS](https://www.bis.org/publ/bppdf.htm)
+
+<details>
+<summary>Abstract</summary>
+We analyze how heightened uncertainty affects monetary policy decisions and communication strategies in Brazil, with a focus on expectation management and credibility.
+</details>
+
+---
+
+### Inflation and Labour Markets in the Wake of the Pandemic: The Case of Brazil (2023)
+**with Sergio Leão**  
+*Book Chapter, BIS Papers*  
+[BIS](https://www.bis.org/publ/bppdf.htm)
+
+<details>
+<summary>Abstract</summary>
+This chapter studies inflation dynamics and labor market adjustments in Brazil following the COVID-19 pandemic, emphasizing sectoral heterogeneity and distributional effects.
+</details>
+
+---
+
+## Publications in Portuguese
+
+### Expectativas Desagregadas, Credibilidade do Banco Central e Cadeias de Markov (2014)
+**with Márcio Garcia**  
+*Revista Brasileira de Economia*  
+[PDF](https://www.scielo.br/j/rbe/)
+
+<details>
+<summary>Abstract</summary>
+This paper analyzes disaggregated inflation expectations in Brazil using Markov chain techniques, emphasizing the role of central bank credibility.
+</details>
+
+---
+
+### Dispersão na Fixação de Preços no Brasil (2011)
+**with Márcio Garcia**  
+*Revista Brasileira de Economia*  
+[PDF](https://www.scielo.br/j/rbe/)
+
+<details>
+<summary>Abstract</summary>
+We document price dispersion patterns in Brazil and discuss implications for inflation dynamics and monetary policy transmission.
+</details>
+
+---
+
+### Futuro da Política Monetária no Brasil (2020)
+*Book Chapter, in Fábio Giambiagi (ed.),*  
+*O Futuro do Brasil*  
+[Publisher](https://www.livrariacultura.com.br/)
+
+<details>
+<summary>Abstract</summary>
+This chapter discusses challenges and perspectives for monetary policy in Brazil, with emphasis on institutional design, credibility, and communication.
+</details>

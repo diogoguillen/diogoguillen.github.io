@@ -101,18 +101,6 @@ Using regression discontinuity designs, we estimate the causal effects of local 
 
 ---
 
-### Optimal Policy with Liquidity Frictions (2014)
-**with Wei Cui**  
-*Working Paper*  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477334)
-
-<details>
-<summary>Abstract</summary>
-This paper studies optimal monetary policy in environments with liquidity frictions. We characterize policy trade-offs between stabilization and efficiency when financial constraints affect the transmission of monetary interventions.
-</details>
-
----
-
 ## Book Chapters (English)
 
 ### The Monetary and Fiscal History of Brazil: 1960–2016

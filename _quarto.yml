@@ -18,7 +18,7 @@ website:
       - href: contact.qmd
         text: Contact
   page-footer:
-    left: "© {format-date(now(), '%Y')} Diogo Guillen"
+    left: "Diogo Guillen"
     right:
       - icon: github
         href: https://github.com/diogoguillen

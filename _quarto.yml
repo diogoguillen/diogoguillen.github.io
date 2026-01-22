@@ -13,10 +13,6 @@ website:
         text: Research
       - href: policy.qmd
         text: Policy & Public
-      - href: cv.qmd
-        text: CV
-      - href: contact.qmd
-        text: Contact
   page-footer:
     left: "Diogo Guillen"
     right:

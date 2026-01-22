@@ -5,29 +5,14 @@ nav: true
 nav_order: 4
 ---
 
-## Interviews
-
-- **Estadão — Adriana Fernandes** — *Mudança de meta impactaria credibilidade do arcabouço; manutenção foi positiva*  
-  [link](https://www.estadao.com.br/economia/mudanca-de-meta-impactaria-credibilidade-do-arcabouco-manutencao-foi-positiva-diz-diretor-do-bc/)
-
-- **Estadão — Álvaro Gribel** — Interview (archive)  
-  [link](https://digital.estadao.com.br/)
-
-- **Valor Econômico** — Interview (archive)  
-  [link](https://valor.globo.com/)
-
-- **Papo Econômico** — Video interview  
-  [link](https://www.youtube.com/watch?v=M5crAGKE_Cw)
-
----
-
 ## Op-eds
-
-- **Valor Econômico** — *Acompanhamento de uma pandemia* (with Felipe Tamega and Felipe Boralli)  
-  [link](https://valor.globo.com/financas/coluna/acompanhamento-de-uma-pandemia.ghtml)
 
 - **Poder360** — *4 diretores do BC defendem autonomia orçamentária e financeira*  
   [link](https://www.poder360.com.br/opiniao/4-diretores-do-bc-defendem-autonomia-orcamentaria-e-financeira/)
+
+
+- **Valor Econômico** — *Acompanhamento de uma pandemia* (with Felipe Tamega and Felipe Boralli)  
+  [link](https://valor.globo.com/financas/coluna/acompanhamento-de-uma-pandemia.ghtml)
 
 ---
 
@@ -44,6 +29,22 @@ nav_order: 4
 
 - **11 Jun 2024** — G20 DGI-3 — Opening remarks  
   [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Diogo_Guillen_G20_data_Gapas_pronunciamento.1.pdf)
+
+---
+
+## Interviews
+
+- **Estadão — Adriana Fernandes** — *Mudança de meta impactaria credibilidade do arcabouço; manutenção foi positiva*  
+  [link](https://www.estadao.com.br/economia/mudanca-de-meta-impactaria-credibilidade-do-arcabouco-manutencao-foi-positiva-diz-diretor-do-bc/)
+
+- **Estadão — Álvaro Gribel** — Interview (archive)  
+  [link](https://digital.estadao.com.br/)
+
+- **Valor Econômico** — Interview (archive)  
+  [link](https://valor.globo.com/)
+
+- **Papo Econômico** — Video interview  
+  [link](https://www.youtube.com/watch?v=M5crAGKE_Cw)
 
 ---
 

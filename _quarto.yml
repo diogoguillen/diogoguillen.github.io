@@ -13,8 +13,6 @@ website:
         text: Research
       - href: policy.qmd
         text: Policy & Public Engagement
-      - href: talks.qmd
-        text: Talks
       - href: cv.qmd
         text: CV
       - href: contact.qmd

@@ -1,12 +1,5 @@
 ---
-title: "Policy & Public Engagement"
+title: "Policy & Public"
 ---
 
-## Selected Policy Work
-- Item (Year). One-line description. [Link](#)
 
-## Speeches / Op-Eds / Interviews
-- Item (Year). Outlet. [Link](#)
-
-## Notes
-Keep this page curated. 8–15 items is usually plenty.

@@ -16,10 +16,8 @@ website:
   page-footer:
     left: "Diogo Guillen"
     right:
-      - icon: github
-        href: https://github.com/diogoguillen
       - icon: linkedin
-        href: https://www.linkedin.com/
+        href: https://www.linkedin.com/in/diogo-guillen-4500a071/
 
 format:
   html:

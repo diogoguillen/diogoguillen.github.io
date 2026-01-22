@@ -8,42 +8,42 @@ nav_order: 4
 ## Interviews
 
 - **Estadão — Adriana Fernandes** — *Mudança de meta impactaria credibilidade do arcabouço; manutenção foi positiva*  
-  https://www.estadao.com.br/economia/mudanca-de-meta-impactaria-credibilidade-do-arcabouco-manutencao-foi-positiva-diz-diretor-do-bc/
+  [link](https://www.estadao.com.br/economia/mudanca-de-meta-impactaria-credibilidade-do-arcabouco-manutencao-foi-positiva-diz-diretor-do-bc/)
 
 - **Estadão — Álvaro Gribel** — Interview (archive)  
-  https://digital.estadao.com.br/
+  [link](https://digital.estadao.com.br/)
 
 - **Valor Econômico** — Interview (archive)  
-  https://valor.globo.com/
+  [link](https://valor.globo.com/)
 
 - **Papo Econômico** — Video interview  
-  https://www.youtube.com/watch?v=M5crAGKE_Cw
+  [link](https://www.youtube.com/watch?v=M5crAGKE_Cw)
 
 ---
 
 ## Op-eds
 
 - **Valor Econômico** — *Acompanhamento de uma pandemia* (with Felipe Tamega and Felipe Boralli)  
-  https://valor.globo.com/financas/coluna/acompanhamento-de-uma-pandemia.ghtml
+  [link](https://valor.globo.com/financas/coluna/acompanhamento-de-uma-pandemia.ghtml)
 
 - **Poder360** — *4 diretores do BC defendem autonomia orçamentária e financeira*  
-  https://www.poder360.com.br/opiniao/4-diretores-do-bc-defendem-autonomia-orcamentaria-e-financeira/
+  [link](https://www.poder360.com.br/opiniao/4-diretores-do-bc-defendem-autonomia-orcamentaria-e-financeira/)
 
 ---
 
 ## Speeches
 
 - **27 Nov 2025** — FGV (MacroLab) — Speech  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Pronunciamento_FGV_27Nov25.pdf
+  [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Pronunciamento_FGV_27Nov25.pdf)
 
 - **20 May 2025** — BIS — Climate Finance Workshop  
-  https://www.bis.org/review/r250528g.htm
+  [link](https://www.bis.org/review/r250528g.htm)
 
 - **20 May 2025** — BIS / ECB — Welcome remarks  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_BIS_ECB_mai2025.pdf
+  [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_BIS_ECB_mai2025.pdf)
 
 - **11 Jun 2024** — G20 DGI-3 — Opening remarks  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Diogo_Guillen_G20_data_Gapas_pronunciamento.1.pdf
+  [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Diogo_Guillen_G20_data_Gapas_pronunciamento.1.pdf)
 
 ---
 
@@ -57,85 +57,58 @@ nav_order: 4
 
 | Year | Mar | Jun | Sep | Dec |
 |------|-----|-----|-----|-----|
-| **2022** | https://www.bcb.gov.br/publicacoes/ri/202203 | https://www.bcb.gov.br/publicacoes/ri/202206 | https://www.bcb.gov.br/publicacoes/ri/202209 | https://www.bcb.gov.br/publicacoes/ri/202212 |
-| **2023** | https://www.bcb.gov.br/publicacoes/ri/202303 | https://www.bcb.gov.br/publicacoes/ri/202306 | https://www.bcb.gov.br/publicacoes/ri/202309 | https://www.bcb.gov.br/publicacoes/ri/202312 |
-| **2024** | https://www.bcb.gov.br/publicacoes/ri/202403 | https://www.bcb.gov.br/publicacoes/ri/202406 | https://www.bcb.gov.br/publicacoes/ri/202409 | https://www.bcb.gov.br/publicacoes/ri/202412 |
+| **2022** | [link](https://www.bcb.gov.br/publicacoes/ri/202203) | [link](https://www.bcb.gov.br/publicacoes/ri/202206) | [link](https://www.bcb.gov.br/publicacoes/ri/202209) | [link](https://www.bcb.gov.br/publicacoes/ri/202212) |
+| **2023** | [link](https://www.bcb.gov.br/publicacoes/ri/202303) | [link](https://www.bcb.gov.br/publicacoes/ri/202306) | [link](https://www.bcb.gov.br/publicacoes/ri/202309) | [link](https://www.bcb.gov.br/publicacoes/ri/202312) |
+| **2024** | [link](https://www.bcb.gov.br/publicacoes/ri/202403) | [link](https://www.bcb.gov.br/publicacoes/ri/202406) | [link](https://www.bcb.gov.br/publicacoes/ri/202409) | [link](https://www.bcb.gov.br/publicacoes/ri/202412) |
 
 #### Monetary Policy Report (RPM)
 
 | Year | Mar | Jun | Sep | Dec |
 |------|-----|-----|-----|-----|
-| **2025** | https://www.bcb.gov.br/publicacoes/rpm/202503 | https://www.bcb.gov.br/publicacoes/rpm/202506 | https://www.bcb.gov.br/publicacoes/rpm/202509 | https://www.bcb.gov.br/publicacoes/rpm/202512 |
+| **2025** | [link](https://www.bcb.gov.br/publicacoes/rpm/202503) | [link](https://www.bcb.gov.br/publicacoes/rpm/202506) | [link](https://www.bcb.gov.br/publicacoes/rpm/202509) | [link](https://www.bcb.gov.br/publicacoes/rpm/202512) |
 
 ---
 
 ### Other Institutional Presentations (chronological)
 
 #### 2025
-- **29 Sep** — HSBC Investment Forum  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DiogoGuillen_HSBC_Investment_Forum2025_sept%2029.pdf
-- **27 Jun** — Barclays Day  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Barclays%20Day%202025_Diogo%20Guillen.pdf
-- **Apr** — IMF / World Bank Annual Meetings  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/IMF%20meetings%20April%202025_DiogoGuillen.pdf
-- **31 Mar** — ESEG — Economic Scenario  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/ESEG%202025%20final.pdf
-- **07 Mar** — Banco de Portugal  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_BancodePortugal_7_3_25.pdf
+- **29 Sep** — HSBC Investment Forum — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DiogoGuillen_HSBC_Investment_Forum2025_sept%2029.pdf)
+- **27 Jun** — Barclays Day — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Barclays%20Day%202025_Diogo%20Guillen.pdf)
+- **Apr** — IMF / World Bank Annual Meetings — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/IMF%20meetings%20April%202025_DiogoGuillen.pdf)
+- **31 Mar** — ESEG — Economic Scenario — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/ESEG%202025%20final.pdf)
+- **07 Mar** — Banco de Portugal — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_BancodePortugal_7_3_25.pdf)
 
 #### 2024
-- **Oct** — IMF / World Bank Annual Meetings (Washington, DC)  
-  https://www.bcb.gov.br/content/about/presentationstexts/DiogoGuillen_WashingtonDC_outubro2024.pdf
-- **05 Sep** — UBS Global Emerging Markets Conference  
-  https://www.bcb.gov.br/content/about/presentationstexts/Presentation_DiogoGuillen_September5.pdf
-- **28 Aug** — CEBRA Annual Meeting  
-  https://www.bcb.gov.br/content/about/presentationstexts/CEBRA1-August28-DiogoGuillen-EconomicResearchPanel.pdf
-- **22 Aug** — PUC-Rio  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/2024-08-22-PUC-RJ.pdf
-- **13 Aug** — Broadcast Awards  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_Diogo_Guillen_Broadcast_13agosto.pdf
-- **23 May** — EEFC  
-  https://www.bcb.gov.br/content/about/presentationstexts/2024_05_23_EEFC_DiogoGuillen_23_5_24.pdf
-- **07 Mar** — Goldman Sachs  
-  https://www.bcb.gov.br/content/about/presentationstexts/20240307_DiogoGuillen_GoldmanSachs.pdf
-- **23 Feb** — ABRASCA  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Abrasca_23_2_24.pdf
-- **10 Jan** — J.P. Morgan  
-  https://www.bcb.gov.br/content/about/presentationstexts/DG_JP%20Morgan_jan_2024.pdf
+- **Oct** — IMF / World Bank Annual Meetings (Washington, DC) — [link](https://www.bcb.gov.br/content/about/presentationstexts/DiogoGuillen_WashingtonDC_outubro2024.pdf)
+- **05 Sep** — UBS Global Emerging Markets Conference — [link](https://www.bcb.gov.br/content/about/presentationstexts/Presentation_DiogoGuillen_September5.pdf)
+- **28 Aug** — CEBRA Annual Meeting — [link](https://www.bcb.gov.br/content/about/presentationstexts/CEBRA1-August28-DiogoGuillen-EconomicResearchPanel.pdf)
+- **22 Aug** — PUC-Rio — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/2024-08-22-PUC-RJ.pdf)
+- **13 Aug** — Broadcast Awards — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_Diogo_Guillen_Broadcast_13agosto.pdf)
+- **23 May** — EEFC — [link](https://www.bcb.gov.br/content/about/presentationstexts/2024_05_23_EEFC_DiogoGuillen_23_5_24.pdf)
+- **07 Mar** — Goldman Sachs — [link](https://www.bcb.gov.br/content/about/presentationstexts/20240307_DiogoGuillen_GoldmanSachs.pdf)
+- **23 Feb** — ABRASCA — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Abrasca_23_2_24.pdf)
+- **10 Jan** — J.P. Morgan — [link](https://www.bcb.gov.br/content/about/presentationstexts/DG_JP%20Morgan_jan_2024.pdf)
 
 #### 2023
-- **01 Dec** — Barclays  
-  https://www.bcb.gov.br/content/about/presentationstexts/DiogoGuillen_Barclays_DEZ_1_23.pdf
-- **29 Sep** — HSBC  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_HSBC_29.9.23.pdf
-- **08 Sep** — London — Monetary Policy Outlook  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/2023_09_08_DiogoGuillen_London%20%28002%29.pdf
-- **16 Aug** — Ibmec — Aula Magna  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Aula_Inaugural_Ibmec_16.8.pdf
-- **06 Jun** — Banking Economics Report  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_REB_2022-06_06_2023.pdf
-- **05 Jun** — London Conference  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_LondonConference_5.6.23.pdf
-- **28 Mar** — Goldman Sachs  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_GS_28.3.23.pdf
+- **01 Dec** — Barclays — [link](https://www.bcb.gov.br/content/about/presentationstexts/DiogoGuillen_Barclays_DEZ_1_23.pdf)
+- **29 Sep** — HSBC — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_HSBC_29.9.23.pdf)
+- **08 Sep** — London — Monetary Policy Outlook — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/2023_09_08_DiogoGuillen_London%20%28002%29.pdf)
+- **16 Aug** — Ibmec — Aula Magna — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Aula_Inaugural_Ibmec_16.8.pdf)
+- **06 Jun** — Banking Economics Report — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_REB_2022-06_06_2023.pdf)
+- **05 Jun** — London Conference — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_LondonConference_5.6.23.pdf)
+- **28 Mar** — Goldman Sachs — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_GS_28.3.23.pdf)
 
 #### 2022
-- **29 Nov** — Brazil Opportunities Conference  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Brazil%20Opportunities%20Conference_29.11.pdf
-- **11 Jul** — Credit Suisse  
-  https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Credit%20Suisse_11.7.pdf
+- **29 Nov** — Brazil Opportunities Conference — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Brazil%20Opportunities%20Conference_29.11.pdf)
+- **11 Jul** — Credit Suisse — [link](https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/DG_Credit%20Suisse_11.7.pdf)
 
 ---
 
 ### Sources
 
 - Banco Central do Brasil — Speeches and presentations (complete archive)  
-  https://www.bcb.gov.br/acessoinformacao/discursos
+  [link](https://www.bcb.gov.br/acessoinformacao/discursos)
 
 ---
 
 *This page compiles interviews, opinion pieces, speeches, and presentations delivered in an official capacity, with links to original sources. Some materials may be available under paywalls or hosted by institutional repositories.*
-
----
-
-

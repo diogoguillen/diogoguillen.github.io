@@ -11,12 +11,16 @@ page-layout: full
 
 <div class="kicker">
 
-Economist ·    Former Deputy Governor, Banco Central do Brasil ·    Visiting Scholar, Stanford University
+Economist 
+·    Former Deputy Governor, Banco Central do Brasil
+·    Visiting Scholar, Stanford University
 </div>
+
+I am currently a Visiting Scholar at Stanford University. Previously, I served as Deputy Governor for Economic Policy at the Central Bank of Brazil, where I oversaw economic research, macroeconomic analysis, and official statistics, and contributed to monetary policy formulation and communication.
+
 
 My research focuses on monetary policy, expectations, and macro-financial linkages, with an emphasis on how policy design and communication affect economic outcomes. My work combines theory, empirical analysis, and policy applications, often drawing on Brazilian and international data.
 
-I am currently a Visiting Scholar at Stanford University. Previously, I served as Deputy Governor for Economic Policy at the Central Bank of Brazil, where I oversaw economic research, macroeconomic analysis, and official statistics, and contributed to monetary policy formulation and communication.
 
 
 **Research interests**

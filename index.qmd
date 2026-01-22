@@ -12,7 +12,9 @@ page-layout: full
 <div class="kicker">
 
 Economist 
+
 ·    Former Deputy Governor, Banco Central do Brasil
+
 ·    Visiting Scholar, Stanford University
 </div>
 
